@@ -2,8 +2,8 @@
 
 ## Authors
 - Leandro Battistoni — ID 0001157160 — leandro.battistoni@studio.unibo.it  
-- Giacomo Ponzuoli — ID 0001189368 — giacomo.ponzuoli@studio.unibo.it  
-- Federico Rimondi — ID 0001205612 — federico.rimondi@studio.unibo.it
+- Giovanni Ponzuoli — ID 0001189368 — giovanni.ponzuoli@studio.unibo.it  
+- Simone Rimondi — ID 0001189110 — simone.rimondi5@studio.unibo.it
 
 ## Assignment 1 — Sexism Detection (EXIST 2023 Task 2)
 Goal: build and analyze classifiers for sexist content on social media.  
